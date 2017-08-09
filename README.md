@@ -1,0 +1,2 @@
+# mypackage
+just another repository
